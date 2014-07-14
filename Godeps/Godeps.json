@@ -1,0 +1,5 @@
+{
+	"ImportPath": "stresser",
+	"GoVersion": "go1.3",
+	"Deps": []
+}
