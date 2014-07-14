@@ -1,1 +1,1 @@
-web: ./bin/goweb
+web: ./bin/stresser
